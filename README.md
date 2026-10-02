@@ -20,3 +20,4 @@ POST /api/post
 
 JSON:
 {"text":"<b>🌆 Идеи на сегодня</b>\n..."}
+Test deployment
